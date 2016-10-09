@@ -3,8 +3,8 @@ title: YuLu Blog
 SEOTitle: 俞露的博客 | YuLu Blog
 header-img: img/home-bg.jpg
 email: ly1001@yeah.net
-description: "关于前端与设计 | 这里是 @Yulu 俞露 的个人博客, 一只小白的摸索。"
-keyword: " 俞露, LulunaYu, 小飞鱼在滑翔, 小飞鱼, flyfish_yl, 俞露的博客, YuLu Blog, 博客, 个人网站, 互联网 "
+description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
+keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
 url: "deeryl.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -12,11 +12,11 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     荷叶晓露_YL 
-zhihu_username:     Luna Yu
-github_username:    LulunaYu
+weibo_username:     huxpro
+zhihu_username:     huxpro[^1]
+github_username:    huxpro
 #twitter_username:  huxpro
-#facebook_username:  huxpro
+facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -64,14 +64,13 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: deeryl.com
+ga_domain: huangxuan.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "too old to make a mess, stay young for belief."
-"
+sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，我想去看看。"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -91,13 +90,12 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "暂时只有我",
-        href: "http://deeryl.com"
+        title: "Su",
+        href: "http://su.gallery/"
+    },{
+        title: "乱序",
+        href: "http://mida.re/"
     }
-    #,{
-     #   title: "乱序",
-      #  href: "http://mida.re/"
-   # }
 ]
 
 [^1]:
