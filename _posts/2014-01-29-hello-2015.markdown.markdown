@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "迁徙!"
+title:      "迁徙"
 subtitle:   " "
 date:       2016-10-09 20:26:00
 author:     "Yu Lu"
