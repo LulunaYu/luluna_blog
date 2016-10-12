@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Hello my blog!"
-subtitle:   " \"Hello World, Hello Blog\""
+title:      "迁徙!"
+subtitle:   " "
 date:       2016-10-09 20:26:00
 author:     "Yu Lu"
 header-img: "img/post1.jpeg"
@@ -10,7 +10,7 @@ tags:
     - 生活
 ---
 
-> “ 我的小窝 ”
+> “ 走过空间，微博，豆瓣，我决定把小窝搭在这里了~”
 
 
 ## 前言
@@ -35,7 +35,7 @@ tags:
 
 0）预备！注册github账号，新建repository，申请域名（我在dnspod上注册的，45RMB/Y）
 
-1）总体思路是：从大神那把模板下载下来之后，再上传到自个的github上的repository中（直接fork是不可以生成网站的，需要在setting->Github page->source选项中勾选），具体步骤参照下面的博客开始吧！（个人推荐参考第一篇阮一峰博客，第二篇可以当作搭好之后的补充知识）
+1）总体思路是：从大神那把模板下载下来之后，再上传到自个的github上的repository中（直接fork是不可以生成网站的），具体步骤参照下面的博客开始吧！（个人推荐参考第一篇阮一峰博客，第二篇可以当作搭好之后的补充知识）
 
 2）用sublime text3（装好markdown的editting和preview插件）写post,并上传。有时延，耐心等待。
 
