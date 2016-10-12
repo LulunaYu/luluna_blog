@@ -42,25 +42,25 @@ tags:
 
 遇到的坑有哪些呢？
 
-0）github的客户端反正我装一回，报错一回。（win10系统的原因？）
+1）github的客户端反正我装一回，报错一回。（win10系统的原因？）
 
    尚未解决，转去用git bash 命令行来配置。
 
-1）用git bash命令行方式，启动jekyll serve 报错。
+2）用git bash命令行方式，启动jekyll serve 报错。
 
    解决方案，来到了[jekyll主页](https://jekyllrb.com/)，发现了神命令：bundle exec jekyll serve 替换jekyll serve,成功在本地开启jekyll服务。
 
-2）在发现了阮一峰的博客之后，我就不懂为啥子一定要成功开启本地jekyll服务？为了保证本地的文件能够在上传到github上后成功生成静态网站，先预览一下么？
+3）在发现了阮一峰的博客之后，我就不懂为啥子一定要成功开启本地jekyll服务？为了保证本地的文件能够在上传到github上后成功生成静态网站，先预览一下么？
 
-3）按照第二篇参考博客中说的在github的setting页面中选中lauch automatic page generator选项。呃，这个模板自然把之前上传的大神的模板给覆盖了啊！
+4）按照第二篇参考博客中说的在github的setting页面中选中lauch automatic page generator选项。呃，这个模板自然把之前上传的大神的模板给覆盖了啊！
 
-4）一直收到邮件告诉我网站哪哪出错了，每次都查邮箱非常不方便，其实在github repository的setting选项中可以看到是哪出错了。
+5）一直收到邮件告诉我网站哪哪出错了，每次都查邮箱非常不方便，其实在github repository的setting选项中可以看到是哪出错了。
 
 个人总结：
 
-0）不能对教程完全依赖，闭着眼睛跟着做，理清逻辑是最重要的，要清楚自己当前到底在干嘛。
+1）不能对教程完全依赖，闭着眼睛跟着做，理清逻辑是最重要的，要清楚自己当前到底在干嘛。
 
-1）参考一篇简单的博客，不要几篇混着看。路线不一样，会崩溃的。
+2）参考一篇简单的博客，不要几篇混着看。路线不一样，会崩溃的。
 
 
 不知不觉竟然过了22：30了，希望能够成功上传我的第一篇post！
@@ -71,9 +71,9 @@ Ps:封面图片是9月份用柚子籽种出来的小苗~
 
    参考博客：
 
-0）[阮一峰的博客](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
+1）[阮一峰的博客](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
 
-1）[作为补充](http://pwnny.cn/original/2016/06/26/MakeBlog.html)
+2）[作为补充](http://pwnny.cn/original/2016/06/26/MakeBlog.html)
 
 <meta http-equiv="refresh" content="2">
 
