@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "迁徙"
+title:      "再迁徙"
 subtitle:   " "
 date:       2016-10-09 20:26:00
 author:     "Yu Lu"
@@ -33,7 +33,7 @@ tags:
 
 ## 正文
 
-0）预备！注册github账号，新建repository，申请域名（我在dnspod上注册的，45RMB/Y）
+0）预备！注册github账号，新建repository，申请域名（我在dnspod上注册的）
 
 1）总体思路是：从大神那把模板下载下来之后，再上传到自个的github上的repository中（直接fork是不可以生成网站的），具体步骤参照下面的博客开始吧！（个人推荐参考第一篇阮一峰博客，第二篇可以当作搭好之后的补充知识）
 
