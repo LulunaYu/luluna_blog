@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "孤山不孤，断桥不断，长桥不长"
-subtitle:   "三寻西湖，于2014年8月，2015年9月，2016年10月"
+subtitle:   ""
 date:       2016-10-11
 author:     "Yu Lu"
 header-img: "img/post-bg-west-lake.jpeg"
